@@ -12,7 +12,7 @@ Markdown:
 
 
 ## Welcome, wanderer! Great adventures lie ahead...
-**Goal:** Learn more about programming. Develop code for daily tasks, fun ideas, and projects related to language translation and interpretation, data analytics, data visualization, etc. <br>
+Hi WanderlustWonders here, on a journey to learn programming! My interests lie in developing programs for daily tasks, creative ideas, and projects related to language translation and interpretation, data analytics, data visualization, etc. <br>
 <!-- **Languages:** English, Japanese, Cantonese, Mandarin <br> -->
 
 
