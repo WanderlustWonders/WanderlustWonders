@@ -40,9 +40,10 @@ https://shields.io/
 ## GitHub Stats
 <a>
   <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=WanderlustWonders&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=79dafa&bg_color=1d1f21" alt="WanderlustWonders's GitHub Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderlustWonders&layout=compact&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- GitHub Stats Cards:
 https://github.com/anuraghazra/github-readme-stats
+Top languages
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderlustWonders&layout=compact&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 -->
