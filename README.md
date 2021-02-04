@@ -39,11 +39,8 @@ Hi, WanderlustWonders here! My interests lie in developing programs for daily ta
 - Interactive terminal displays progress for each word. 
 - Example CSV word list after translation and extraction.
 
-<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Words_Raw_CSV.png?raw=True" alt="CSV word list to be translated" height="35%" width="35%" align = "left"> 
-<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" height="50%" width="50%" align = "right">
-<br>
-<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="50%" width="50%" align="left">
-
+<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Words_Raw_CSV.png?raw=True" alt="CSV word list to be translated" height="35%" width="35%"> <img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="50%" width="50%" align="right">
+<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" height="50%" width="50%" align = "left">
 
 
 
