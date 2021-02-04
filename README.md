@@ -12,7 +12,7 @@ Markdown:
 
 
 ## Welcome, wanderer! Great adventures lie ahead...
-Hi, WanderlustWonders here! My interests lie in developing programs for daily tasks, creative ideas, and projects related to language translation and interpretation, data analytics, data visualization, etc. <br>
+Hi, WanderlustWonders here! My interests lie in developing programs for creative ideas, daily workflow optimization, and projects related to language translation and interpretation, data analytics, data visualization, population health, etc. <br>
 <!-- **Languages:** English, Japanese, Cantonese, Mandarin <br> -->
 
 
