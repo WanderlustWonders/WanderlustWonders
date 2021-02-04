@@ -33,14 +33,20 @@ Hi, WanderlustWonders here! My interests lie in developing programs for daily ta
 
 ## Current Projects
 
-### Es-En translation for Anki card creation and CSV import
+### Es-En Web Scrape: Translation for Anki card creation and CSV import
 
-- Example CSV word list prior to translation and extraction. 
-- Interactive terminal displays progress for each word. 
-- Example CSV word list after translation and extraction.
+- Extracts the following elements with progress displayed as the program runs:
+  - Word Translation
+  - Pronunciation
+  - Part of Speech
+  - User specified number of Example Sentences (formatted)
+- Next steps: 
+  - Extract user specified verb conjugations (e.g. imperfect, preterite, future, etc.)
+  - Return the same elements for longer sentences
+- Example CSV word list before and after translation and extraction:
 
-<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Words_Raw_CSV.png?raw=True" alt="CSV word list to be translated" height="35%" width="35%"> <img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="50%" width="50%" align="right">
-<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" height="50%" width="50%" align = "left">
+<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Words_Raw_CSV.png?raw=True" alt="CSV word list to be translated" height="30%" width="30%"> <img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="69%" width="69%">
+<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Retrieval_Progress_2.png?raw=True" alt="Translation Progress" height="45%" width="45%" align = "left">
 
 
 
