@@ -45,8 +45,8 @@ Hi, WanderlustWonders here! My interests lie in developing programs for creative
   - Return the same elements for longer sentences
 - Example CSV word list before and after translation and extraction:
 
-<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Words_Raw_CSV.png?raw=True" alt="CSV word list to be translated" height="30%" width="30%"> <img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="69%" width="69%">
-<img src="https://github.com/WanderlustWonders/SpanishDict_WebScrape/blob/main/Images/Translation_Retrieval_Progress_2.png?raw=True" alt="Translation Progress" height="45%" width="45%" align = "left">
+<img src="/Images/EnEs_Translation_Words_Raw_CSV.png?raw=True" alt="CSV word list to be translated" height="30%" width="30%"> <img src="/Images/EnEs_Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="69%" width="69%">
+<img src="/Images/EnEs_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" height="45%" width="45%" align = "left">
 
 
 
