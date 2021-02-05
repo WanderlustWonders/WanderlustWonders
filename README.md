@@ -48,7 +48,7 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
   - Option to include word translation and/or sentence translation in Cloze Deletion format
  
 
-<img src="/Images/EnEs_Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="55%" width="55%"> <img src="/Images/EnEs_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" height="35%" width="35%">
+<img src="/Images/EnEs_Translation_Retrieval_Progress.png.png?raw=True" alt="Translation Progress" height="35%" width="35%"> <img src="/Images/EnEs_Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="55%" width="55%"> 
 
 
 
