@@ -12,7 +12,7 @@ Markdown:
 
 
 ## Welcome, wanderer! Great adventures lie ahead...
-Hi, WanderlustWonders here! My interests lie in developing programs for creative ideas, daily workflow optimization, and projects related to language translation and interpretation, data analytics, data visualization, population health, etc. <br>
+Hi, WanderlustWonders here! I'm interested in developing programs for creative ideas, daily workflow optimization, and projects related to language translation and interpretation, data analytics, data visualization, population health, etc. <br>
 <!-- **Languages:** English, Japanese, Cantonese, Mandarin <br> -->
 
 
@@ -30,6 +30,8 @@ Hi, WanderlustWonders here! My interests lie in developing programs for creative
 ![](https://img.shields.io/badge/|-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/|-Blender-informational?style=flat&logo=Blender&logoColor=white&color=F5792A)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderlustWonders&layout=compact&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="30%" width="30%"/>
+
 
 ## Current Projects
 
@@ -42,11 +44,12 @@ Hi, WanderlustWonders here! My interests lie in developing programs for creative
   - User specified number of Example Sentences (formatted)
 - Next steps: 
   - Extract user specified verb conjugations (e.g. imperfect, preterite, future, etc.)
-  - Return the same elements for longer sentences
-- Example CSV word list before and after translation and extraction:
+  - To prevent splicing of data and inaccurate Anki UTF-8 import: Remove and/or replace user-specified delimiter in the data 
+  - Option to include word translation and/or sentence translation in Cloze Deletion format
+ 
 
-<img src="/Images/EnEs_Translation_Words_Raw_CSV.png?raw=True" alt="CSV word list to be translated" height="30%" width="30%"> <img src="/Images/EnEs_Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="69%" width="69%">
-<img src="/Images/EnEs_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" height="45%" width="45%" align = "left">
+<img src="/Images/EnEs_Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="55%" width="55%"> <img src="/Images/EnEs_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" height="35%" width="35%">
+
 
 
 
