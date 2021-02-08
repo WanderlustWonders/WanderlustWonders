@@ -42,15 +42,22 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
   - Pronunciation
   - Part of Speech
   - User specified number of Example Sentences (formatted)
+  - Option to specify cloze deletion format
 - Next steps: 
   - Extract user specified verb conjugations (e.g. imperfect, preterite, future, etc.)
   - To prevent splicing of data and inaccurate Anki UTF-8 import: Remove and/or replace user-specified delimiter in the data 
-  - Option to include word translation and/or sentence translation in Cloze Deletion format
  
-
 <img src="/Images/EnEs_Translation_Retrieval_Progress.png.png?raw=True" alt="Translation Progress" height="35%" width="35%"> <img src="/Images/EnEs_Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="55%" width="55%"> 
 
 
+ ### Dice Roller
+- User specifies type and number of dice to be rolled with options to:
+  - Leave rolls as seperate entities or provide a total sum
+  - Include modifier to each roll or to the total
+  - Check and return statistics with return message based on probability quartile
+- Next steps:
+  - Incorporate GUI
+  - More detailed statistics
 
 
 <!-- Icon Format:
