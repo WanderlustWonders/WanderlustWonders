@@ -43,8 +43,11 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
   - Part of Speech
   - User specified number of Example Sentences (formatted)
   - Option to specify cloze deletion format
+  - User-specified verb conjugations for one mood and one tense:
+    - Mood: Indicative, Subjunctive, Imperative, Continuous, Perfect, Perfect Subjunctive
+    - Tense: Present, Preterite, Imperfect, Conditional, Future
 - Next steps: 
-  - Extract user specified verb conjugations (e.g. imperfect, preterite, future, etc.)
+  - Allow multiple verb conjugation selections and generate separate cards for user-specified verb conjugation type(s)
   - To prevent splicing of data and inaccurate Anki UTF-8 import: Remove and/or replace user-specified delimiter in the data 
  
 <img src="/Images/EnEs_Translation_Retrieval_Progress.png.png?raw=True" alt="Translation Progress" height="35%" width="35%"> <img src="/Images/EnEs_Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="55%" width="55%"> 
