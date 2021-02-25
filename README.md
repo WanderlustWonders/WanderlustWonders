@@ -27,8 +27,9 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
 
 ![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/|-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
+![](https://img.shields.io/badge/|-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/|-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/|-Blender-informational?style=flat&logo=Blender&logoColor=white&color=F5792A)
+<!-- ![](https://img.shields.io/badge/|-Blender-informational?style=flat&logo=Blender&logoColor=white&color=F5792A) -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderlustWonders&layout=compact&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="30%" width="30%"/>
 
