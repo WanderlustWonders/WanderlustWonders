@@ -35,7 +35,7 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
 
 ## Current Projects
 
-### Es-En Web Scrape: Translation for Anki card creation and CSV import
+### Es-En and Jap-En Web Scrape: Translation for Anki card creation and CSV import
 
 - Extracts the following elements with progress displayed as the program runs:
   - Word Translation
@@ -49,8 +49,13 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
 - Next steps: 
   - Allow multiple verb conjugation selections and generate separate cards for user-specified verb conjugation type(s)
   - To prevent splicing of data and inaccurate Anki UTF-8 import: Remove and/or replace user-specified delimiter in the data 
- 
-<img src="/Images/EnEs_Translation_Retrieval_Progress.png.png?raw=True" alt="Translation Progress" height="35%" width="35%"> <img src="/Images/EnEs_Translation_Result_CSV.png?raw=True" alt="Translation completed result" height="55%" width="55%"> 
+
+<div>
+ <p align="center">
+  <img src="/Images/En_Es_Translation_Progress_Python.png?raw=True" alt="Translation Progress" width="650"> 
+  <img src="/Images/En_Es_Translation_Results_CSV.png?raw=True" alt="Translation completed result" width="650"> 
+ </p>
+</div>
 
 
  ### Dice Roller
