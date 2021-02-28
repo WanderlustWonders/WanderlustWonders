@@ -43,13 +43,11 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
   - Spanish: Multiple verb conjugation selections. Generate separate cards for user-specified verb conjugation type(s).
   - Japanese: Options to format and add furigana.
 
-<div>
- <p align="center">
-  <img src="/Images/En_Es_Translation_Progress_Python.png?raw=True" alt="Translation Progress" width="420"><img src="/Images/En_Es_Translation_Results_CSV.png?raw=True" alt="Translation completed result" width="525"> 
-   
-  <img src="/Images/Jp_En_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" width="420"><img src="/Images/Jp_En_Translation_Result_CSV_UTF8.png?raw=True" alt="Translation completed result" width="525"> 
- </p>
-</div>
+
+<img src="/Images/En_Es_Translation_Progress_Python.png?raw=True" alt="Translation Progress" width="420"> <img src="/Images/En_Es_Translation_Results_CSV.png?raw=True" alt="Translation completed result" width="520"> 
+
+
+<img src="/Images/Jp_En_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" width="420"> <img src="/Images/Jp_En_Translation_Result_CSV_UTF8.png?raw=True" alt="Translation completed result" width="520"> 
 
 
  ### Dice Roller
