@@ -44,10 +44,10 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
   - Japanese: Options to format and add furigana.
 
 
-<img src="/Images/En_Es_Translation_Progress_Python.png?raw=True" alt="Translation Progress" width="380"> <img src="/Images/En_Es_Translation_Results_CSV.png?raw=True" alt="Translation completed result" width="540"> 
+<img src="/Images/En_Es_Translation_Progress_Python.png?raw=True" alt="Translation Progress" width="330"> <img src="/Images/En_Es_Translation_Results_CSV.png?raw=True" alt="Translation completed result" width="500"> 
 
 
-<img src="/Images/Jp_En_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" width="380"> <img src="/Images/Jp_En_Translation_Result_CSV_UTF8.png?raw=True" alt="Translation completed result" width="540"> 
+<img src="/Images/Jp_En_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" width="330"> <img src="/Images/Jp_En_Translation_Result_CSV_UTF8.png?raw=True" alt="Translation completed result" width="500"> 
 
 
  ### Dice Roller
