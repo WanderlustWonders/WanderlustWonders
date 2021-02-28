@@ -3,17 +3,9 @@
        alt="WanderlustWonders Header">
 </a>
 
-<!-- Image header with link redirect: 
-Link image to redirect: <img> tag as child of <a> tag with href.
-LT or RT Align: insert align="right" in image tag. Center align: Put anchor tag as child of paragraph <p align="center"> <a> <img> </a> </p>
-Markdown:
-[![Header](URL.png "Header")](https://redirect.link)
--->
-
 
 ## Welcome, wanderer! Great adventures lie ahead...
 Hi, WanderlustWonders here! I'm interested in developing programs for creative ideas, daily workflow optimization, and projects related to language translation and interpretation, data analytics, data visualization, population health, etc. <br>
-<!-- **Languages:** English, Japanese, Cantonese, Mandarin <br> -->
 
 
 ## Tools of the Trade
@@ -38,23 +30,24 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
 
 ### Es-En and Jap-En Web Scrape: Translation for Anki card creation and CSV import
 
-- Extracts the following elements with progress displayed as the program runs:
+- Extracts the following elements with progress displayed:
   - Word Translation
-  - Pronunciation
+  - Pronunciation (for Spanish)
   - Part of Speech
   - User specified number of Example Sentences (formatted)
   - Option to specify cloze deletion format
-  - User-specified verb conjugations for one mood and one tense:
+  - User-specified verb conjugations for one mood and one tense (for Spanish):
     - Mood: Indicative, Subjunctive, Imperative, Continuous, Perfect, Perfect Subjunctive
     - Tense: Present, Preterite, Imperfect, Conditional, Future
 - Next steps: 
-  - Allow multiple verb conjugation selections and generate separate cards for user-specified verb conjugation type(s)
-  - To prevent splicing of data and inaccurate Anki UTF-8 import: Remove and/or replace user-specified delimiter in the data 
+  - Spanish: Multiple verb conjugation selections. Generate separate cards for user-specified verb conjugation type(s).
+  - Japanese: Options to format and add furigana.
 
 <div>
  <p align="center">
-  <img src="/Images/En_Es_Translation_Progress_Python.png?raw=True" alt="Translation Progress" width="650"> 
-  <img src="/Images/En_Es_Translation_Results_CSV.png?raw=True" alt="Translation completed result" width="650"> 
+  <img src="/Images/En_Es_Translation_Progress_Python.png?raw=True" alt="Translation Progress" width="420"><img src="/Images/En_Es_Translation_Results_CSV.png?raw=True" alt="Translation completed result" width="525"> 
+   
+  <img src="/Images/Jp_En_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" width="420"><img src="/Images/Jp_En_Translation_Result_CSV_UTF8.png?raw=True" alt="Translation completed result" width="525"> 
  </p>
 </div>
 
