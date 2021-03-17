@@ -23,24 +23,25 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
 ![](https://img.shields.io/badge/|-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
 <!-- ![](https://img.shields.io/badge/|-Blender-informational?style=flat&logo=Blender&logoColor=white&color=F5792A) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderlustWonders&layout=compact&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="30%" width="30%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderlustWonders&layout=compact&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="30%" width="30%"/> -->
 
 
-## Current Projects
+## Current Projects and Activities
+
+### Data Analysis and Model Development
+
+- Population Health
+- Socioeconomic Analyses
 
 ### Es-En and Jap-En Web Scrape: Translation for Anki card creation and CSV import
 
-- Extracts the following elements with progress displayed:
-  - Word Translation
-  - Pronunciation (for Spanish)
-  - Part of Speech
-  - User specified number of Example Sentences (formatted)
-  - Option to specify cloze deletion format
-  - User-specified verb conjugations for one mood and one tense (for Spanish):
-    - Mood: Indicative, Subjunctive, Imperative, Continuous, Perfect, Perfect Subjunctive
-    - Tense: Present, Preterite, Imperfect, Conditional, Future
+- Word Translation, Pronunciation (for Spanish), Part of Speech, user specified number of Example Sentences (formatted)
+- User-specified verb conjugations for mood and tense (for Spanish):
+  - Mood: Indicative, Subjunctive, Imperative, Continuous, Perfect, Perfect Subjunctive
+  - Tense: Present, Preterite, Imperfect, Conditional, Future
+- Cloze deletion format
 - Next steps: 
-  - Spanish: Multiple verb conjugation selections. Generate separate cards for user-specified verb conjugation type(s).
+  - Spanish: Multiple verb conjugation selections in one pull. Generate separate cards for user-specified verb conjugation type(s).
   - Japanese: Options to format and add furigana.
 
 
@@ -56,8 +57,7 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
   - Include modifier to each roll or to the total
   - Check and return statistics with return message based on probability quartile
 - Next steps:
-  - Incorporate GUI
-  - More detailed statistics
+  - Incorporate GUI and more detailed statistics
 
 
 <!-- Icon Format:
