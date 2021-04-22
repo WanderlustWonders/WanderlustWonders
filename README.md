@@ -51,6 +51,7 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
 <img src="/Images/Jp_En_Translation_Retrieval_Progress.png?raw=True" alt="Translation Progress" width="330"> <img src="/Images/Jp_En_Translation_Result_CSV_UTF8.png?raw=True" alt="Translation completed result" width="500"> 
 
 
+<!-- 
  ### Dice Roller
 - User specifies type and number of dice to be rolled with options to:
   - Leave rolls as seperate entities or provide a total sum
@@ -58,7 +59,7 @@ Hi, WanderlustWonders here! I'm interested in developing programs for creative i
   - Check and return statistics with return message based on probability quartile
 - Next steps:
   - Incorporate GUI and more detailed statistics
-
+-->
 
 <!-- Icon Format:
 https://simpleicons.org/
